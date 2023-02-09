@@ -1,10 +1,6 @@
 package labcomputers;
 
-/*
-Name : MESHAL ALI OKAIRY
-ID : 2237836
-Section : F1
- */
+
 
 import java.io.File;
 import java.io.FileNotFoundException;
