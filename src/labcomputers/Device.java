@@ -1,9 +1,4 @@
 
-/*
-Name : MESHAL ALI OKAIRY
-ID : 2237836
-Section : F1
-*/
 
 package labcomputers;
 //The Super Class
